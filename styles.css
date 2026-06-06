@@ -38,3 +38,8 @@
                                     color: rgb(183, 65, 65);
                                     }
 }
+
+footer {
+  p {
+    color: DarkBlue
+  }
